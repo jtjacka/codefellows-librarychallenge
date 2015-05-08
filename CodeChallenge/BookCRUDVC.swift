@@ -25,6 +25,7 @@ class BookCRUDVC: UIViewController {
     @IBOutlet weak var bookTitle: UITextField!
     @IBOutlet weak var libraryName: UITextField!
     @IBOutlet weak var shelfName: UITextField!
+
     
     //Action Buttons
     @IBAction func enshelf(sender: AnyObject) {
@@ -78,13 +79,13 @@ class BookCRUDVC: UIViewController {
         if let book = bookEdit {
             
             title = book.title
-            bookTitle.text = book.title
-            libraryName.text = book.libraryContainer
+            bookTitle?.text = book.title
+            libraryName?.text = book.libraryContainer
             if book.shelved{
-                shelfName.text = book.shelfLocation
+                shelfName?.text = book.shelfLocation
             }
             else{
-                shelfName.text = "Unshelfed"
+                shelfName?.text = "Unshelfed"
             }
             
         }

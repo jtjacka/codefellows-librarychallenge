@@ -239,9 +239,9 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <connections>
-                        <outlet property="bookName" destination="TAW-1J-nuM" id="xoy-NP-pYq"/>
-                        <outlet property="libraryName" destination="dYp-h9-nBV" id="bt3-TW-w69"/>
-                        <outlet property="shelfName" destination="mCc-bA-ybx" id="689-RI-5X9"/>
+                        <outlet property="bookName" destination="TAW-1J-nuM" id="ScA-1f-fLL"/>
+                        <outlet property="libraryName" destination="dYp-h9-nBV" id="ktV-ma-jwf"/>
+                        <outlet property="shelfName" destination="mCc-bA-ybx" id="6Ot-vL-9IM"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="SDx-Ad-NeC" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -350,9 +350,9 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <connections>
-                        <outlet property="bookTitle" destination="KDD-bl-lBA" id="Bmf-tN-ehb"/>
-                        <outlet property="libraryName" destination="Zml-5g-TTc" id="8sP-yu-zDt"/>
-                        <outlet property="shelfName" destination="NiS-BV-dUS" id="zaD-H8-Nbp"/>
+                        <outlet property="bookTitle" destination="KDD-bl-lBA" id="Bcl-e9-wcg"/>
+                        <outlet property="libraryName" destination="Zml-5g-TTc" id="kY6-qD-lqf"/>
+                        <outlet property="shelfName" destination="NiS-BV-dUS" id="Cjh-8J-Tdh"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="gRH-Ri-cAB" userLabel="First Responder" sceneMemberID="firstResponder"/>

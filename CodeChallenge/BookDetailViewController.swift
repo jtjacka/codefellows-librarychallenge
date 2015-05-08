@@ -19,7 +19,7 @@ class BookDetailViewController: UIViewController {
     
     //Action - Destory
     @IBAction func destroy(sender: AnyObject) {
-        currentBook?.delete()
+        currentBook!.delete()
     }
     
     
