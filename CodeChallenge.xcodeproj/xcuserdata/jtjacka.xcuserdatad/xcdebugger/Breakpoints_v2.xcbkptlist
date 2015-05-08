@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodeChallenge/BookCRUDVC.swift"
+            timestampString = "452780013.846659"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "enshelf(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodeChallenge/library.swift"
+            timestampString = "452780619.858436"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "Book"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeChallenge.Book.onShelf.setter : Swift.Optional&lt;CodeChallenge.Shelf&gt;"
+                  moduleName = "CodeChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Backup/Google%20Drive/Projects/untitled%20folder/CodeChallenge/CodeChallenge/library.swift"
+                  timestampString = "452781752.704096"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeChallenge.Book.onShelf.materializeForSet : Swift.Optional&lt;CodeChallenge.Shelf&gt;"
+                  moduleName = "CodeChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Backup/Google%20Drive/Projects/untitled%20folder/CodeChallenge/CodeChallenge/library.swift"
+                  timestampString = "452781752.704196"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeChallenge.Book.init (CodeChallenge.Book.Type)() -&gt; CodeChallenge.Book"
+                  moduleName = "CodeChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Backup/Google%20Drive/Projects/untitled%20folder/CodeChallenge/CodeChallenge/library.swift"
+                  timestampString = "452781752.704339"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
